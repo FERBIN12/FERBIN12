@@ -8,8 +8,11 @@ My journey in the world of robotics is fueled by my love for cutting-edge techno
  Computer Vision: I'm well-versed in developing computer vision algorithms and applications, enabling robots to understand and interact with their environment.
  TensorFlow: With deep experience in TensorFlow, I harness the power of neural networks and deep learning to solve complex robotic challenges.
  Let's Connect!
+ 
  Email: fjferbin@gmail.com
+ 
  LinkedIn: https://www.linkedin.com/in/ferbin12
- Instagram: https://www.instagram.com/ferbin._12/
+ 
+ 
 
-Feel free to reach out if you share my enthusiasm for robotics or if you're interested in collaborating on exciting projects. Let's make the future of robotics together! 🚀
+Feel free to reach out if you share my enthusiasm for robotics or if you're interested in collaborating on exciting projects. Let's make the future of robotics together! 
