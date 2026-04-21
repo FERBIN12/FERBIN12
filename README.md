@@ -5,23 +5,43 @@
 <h1 align="center">Ferbin / FERBIN12</h1>
 
 <p align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=26&pause=1300&color=E2C46E&center=true&vCenter=true&width=900&lines=Robotics-first+systems+engineering;ROS+2+%2B+Isaac+Sim+%2B+RealSense+%2B+Nav2;Next.js+%2B+Supabase+%2B+Vercel;Python+%2B+C%2B%2B+%2B+Rust+%2B+Docker" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=26&pause=1300&color=E1C46D&center=true&vCenter=true&width=960&lines=Robotics-first+systems+engineering;ROS+2+%2B+Isaac+Sim+%2B+RealSense+%2B+Nav2;Python+%2B+C%2B%2B+%2B+Rust+%2B+Docker;Next.js+%2B+Supabase+when+the+job+needs+it" />
 </p>
 
-<p align="center"><i>Robotics first. Product second. Standards always.</i></p>
+<p align="center"><i>Calm surface. Precise machinery.</i></p>
 
 ---
 
-## Snapshot
+## Overview
 
-- Robotics simulation, teleop, perception, and navigation work
-- Product software in Next.js / Supabase / Vercel stacks
-- Release hygiene, diagnostics, and build automation
-- Desktop shells and control surfaces with motion-driven UI
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Primary focus</strong><br/>
+      Robotics simulation, teleop, perception, navigation, and launch tooling.
+      <br/><br/>
+      <strong>Secondary focus</strong><br/>
+      Product software, dashboards, and the internal tooling needed to keep systems shipping.
+      <br/><br/>
+      <strong>Work style</strong><br/>
+      Direct, disciplined, and strongly biased toward systems that are testable and reproducible.
+    </td>
+    <td valign="top" width="50%">
+      <strong>Current stack</strong><br/>
+      ROS 2 Jazzy, Isaac Sim 5.1.0, RealSense, Nav2, TF2, Next.js, Supabase, Python, C++, Rust.
+      <br/><br/>
+      <strong>Build systems</strong><br/>
+      `colcon`, `ament_cmake`, CMake, Docker, Git, Linux, Ubuntu.
+      <br/><br/>
+      <strong>UI systems</strong><br/>
+      React, Electron, Tailwind CSS, Framer Motion, Leaflet, Playwright.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Robotics Core
+## Robotics First
 
 <p align="center">
   <img alt="ROS 2" src="https://img.shields.io/badge/ROS%202-Jazzy-22314E?style=flat-square" />
@@ -35,22 +55,18 @@
   <img alt="LiDAR" src="https://img.shields.io/badge/LiDAR-0F766E?style=flat-square" />
   <img alt="MAVLink" src="https://img.shields.io/badge/MAVLink-0B5CAD?style=flat-square" />
   <img alt="CAN" src="https://img.shields.io/badge/CAN-222222?style=flat-square" />
-  <img alt="colcon" src="https://img.shields.io/badge/colcon-6B7280?style=flat-square" />
-  <img alt="ament_cmake" src="https://img.shields.io/badge/ament_cmake-374151?style=flat-square" />
-  <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
 </p>
 
-### What I do in robotics
-- Build ROS 2 Jazzy workspaces and launch pipelines
-- Run Isaac Sim 5.1.0 teleoperation and simulation flows
-- Wire in TurtleBot3, RealSense, LiDAR, and navigation stacks
-- Work with TF2, Nav2, odometry, control, and sensor fusion
-- Keep `colcon`, `ament_cmake`, and CMake builds reproducible
-- Touch MAVLink / CAN / field robotics tooling when the job needs it
+- ROS 2 Jazzy workspaces and launch pipelines
+- Isaac Sim 5.1.0 simulation and teleoperation flows
+- TurtleBot3 bringup, teleop, navigation, and description stacks
+- RealSense and LiDAR sensor integration
+- TF2, Nav2, odometry, and control loops
+- MAVLink and CAN adjacent field-robotics tooling
 
 ---
 
-## Software Stack
+## Build Layers
 
 <p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -84,22 +100,21 @@
 
 ---
 
-## Projects I Keep Shipping
+## Active Systems
 
 - **MDDS AGV Simulation Stack** - Isaac Sim + ROS 2 simulation environment for an autonomous ground vehicle with teleop, sensors, and launch workflows.
 - **GalaHub** - premium event vendor booking platform built with Next.js, Supabase, Leaflet, and a multi-step booking flow.
 - **Robi** - workspace assistant focused on diagnostics, safety gating, evaluation, and release hygiene.
 - **Joey UI** - an Electron + React desktop assistant shell with motion-driven UI work.
-- **Robotics workspaces** - ROS 2, odometry, control, sensor fusion, and launch-oriented engineering across multiple local workspaces.
 
 ---
 
-## Current Focus
+## What I Care About
 
-- Shipping production-grade robotics and web systems
-- Keeping ROS 2 and simulation stacks reproducible and testable
-- Turning messy project knowledge into clean docs and automation
-- Building systems that are useful, not just impressive
+- Systems that are reliable under pressure
+- Interfaces that make hard things easier to use
+- Reproducible builds and clean release paths
+- Robotics software that can be tested, explained, and maintained
 
 ---
 
