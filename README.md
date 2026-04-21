@@ -5,44 +5,23 @@
 <h1 align="center">Ferbin / FERBIN12</h1>
 
 <p align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=26&pause=1300&color=E6CF88&center=true&vCenter=true&width=900&lines=Private+engineering+desk;Robotics-first+%E2%80%A2+systems-aware+%E2%80%A2+precise;ROS+2+%2B+Isaac+Sim+%2B+RealSense+%2B+Nav2;Next.js+%2B+Supabase+%2B+Vercel" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=26&pause=1300&color=E2C46E&center=true&vCenter=true&width=900&lines=Robotics-first+systems+engineering;ROS+2+%2B+Isaac+Sim+%2B+RealSense+%2B+Nav2;Next.js+%2B+Supabase+%2B+Vercel;Python+%2B+C%2B%2B+%2B+Rust+%2B+Docker" />
 </p>
 
-<p align="center">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-FERBIN12-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="ROS 2" src="https://img.shields.io/badge/ROS%202-Jazzy-22314E?style=for-the-badge" />
-  <img alt="Isaac Sim" src="https://img.shields.io/badge/Isaac%20Sim-5.1.0-76B900?style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
-
-<p align="center"><i>Navy surface. Gold trim. Robotics underneath.</i></p>
+<p align="center"><i>Robotics first. Product second. Standards always.</i></p>
 
 ---
 
-## Contact
+## Snapshot
 
-<p align="center">
-  <a href="https://github.com/FERBIN12">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@FERBIN12-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <img alt="Status" src="https://img.shields.io/badge/Status-Building%20%26%20shipping-22C55E?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-Robotics%20%7C%20Web%20%7C%20Automation-0EA5E9?style=flat-square" />
-</p>
+- Robotics simulation, teleop, perception, and navigation work
+- Product software in Next.js / Supabase / Vercel stacks
+- Release hygiene, diagnostics, and build automation
+- Desktop shells and control surfaces with motion-driven UI
 
 ---
 
-## What I Build
-
-- **Robotics systems** - simulation, teleop, navigation, perception, and data pipelines
-- **Product software** - booking flows, dashboards, auth, and marketplace interfaces
-- **Automation tooling** - release checks, diagnostics, and repo hygiene
-- **Operator surfaces** - desktop shells and control panels with motion-first UI
-
----
-
-## Robotics Stack
+## Robotics Core
 
 <p align="center">
   <img alt="ROS 2" src="https://img.shields.io/badge/ROS%202-Jazzy-22314E?style=flat-square" />
@@ -59,21 +38,19 @@
   <img alt="colcon" src="https://img.shields.io/badge/colcon-6B7280?style=flat-square" />
   <img alt="ament_cmake" src="https://img.shields.io/badge/ament_cmake-374151?style=flat-square" />
   <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
-### Robotics details
-- ROS 2 Jazzy workspaces and launch pipelines
-- Isaac Sim 5.1.0 simulation and teleoperation
-- TurtleBot3 bringup, teleop, navigation, and description stacks
-- Intel RealSense and LiDAR sensor integration
-- TF2, Nav2, odometry, and control loops
-- CAN / MAVLink / field-robotics tooling
-- `colcon`, `ament_cmake`, and CMake-based build systems
+### What I do in robotics
+- Build ROS 2 Jazzy workspaces and launch pipelines
+- Run Isaac Sim 5.1.0 teleoperation and simulation flows
+- Wire in TurtleBot3, RealSense, LiDAR, and navigation stacks
+- Work with TF2, Nav2, odometry, control, and sensor fusion
+- Keep `colcon`, `ament_cmake`, and CMake builds reproducible
+- Touch MAVLink / CAN / field robotics tooling when the job needs it
 
 ---
 
-## Core Stack
+## Software Stack
 
 <p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -92,35 +69,22 @@
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-
----
-
-## Field Notes
-
-<p align="center">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="TensorBoard" src="https://img.shields.io/badge/TensorBoard-FF6F00?style=flat-square" />
-  <img alt="Ultralytics" src="https://img.shields.io/badge/Ultralytics-0B3D91?style=flat-square" />
-  <img alt="Roboflow" src="https://img.shields.io/badge/Roboflow-651FFF?style=flat-square&logo=roboflow&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img alt="Sphinx" src="https://img.shields.io/badge/Sphinx-000000?style=flat-square&logo=sphinx&logoColor=white" />
-  <img alt="aiohttp" src="https://img.shields.io/badge/aiohttp-2C5BB4?style=flat-square" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img alt="Cargo" src="https://img.shields.io/badge/Cargo-8C6239?style=flat-square" />
-  <img alt="rust-analyzer" src="https://img.shields.io/badge/rust--analyzer-DEA584?style=flat-square" />
 </p>
 
 ---
 
-## Selected Work
+## Supporting Work
+
+- TensorFlow, TensorBoard, Ultralytics, and Roboflow for vision / ML work
+- FastAPI, Flask, Streamlit, and aiohttp for Python services and tooling
+- Jupyter, Sphinx, and docs-first workflows for internal project clarity
+- Linux, Ubuntu, Rust, Cargo, and rust-analyzer for systems work
+
+---
+
+## Projects I Keep Shipping
 
 - **MDDS AGV Simulation Stack** - Isaac Sim + ROS 2 simulation environment for an autonomous ground vehicle with teleop, sensors, and launch workflows.
 - **GalaHub** - premium event vendor booking platform built with Next.js, Supabase, Leaflet, and a multi-step booking flow.
@@ -139,7 +103,7 @@
 
 ---
 
-## Style Notes
+## Work Style
 
 - Direct over flashy
 - Stable over clever

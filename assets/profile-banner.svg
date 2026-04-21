@@ -1,73 +1,68 @@
 <svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#050815"/>
-      <stop offset="0.46" stop-color="#0B1323"/>
-      <stop offset="1" stop-color="#121D35"/>
+      <stop stop-color="#050816"/>
+      <stop offset="0.5" stop-color="#0A1323"/>
+      <stop offset="1" stop-color="#101C33"/>
     </linearGradient>
     <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#7A6020"/>
-      <stop offset="0.5" stop-color="#E6CF88"/>
-      <stop offset="1" stop-color="#A6842A"/>
+      <stop offset="0" stop-color="#7E6420"/>
+      <stop offset="0.5" stop-color="#E2C46E"/>
+      <stop offset="1" stop-color="#9C7B29"/>
     </linearGradient>
-    <linearGradient id="cool" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#F4E8C8" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#F4E8C8" stop-opacity="0"/>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
     <filter id="blur" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="18"/>
+      <feGaussianBlur stdDeviation="22"/>
     </filter>
   </defs>
 
   <rect width="1400" height="420" rx="28" fill="url(#bg)"/>
-  <rect x="18" y="18" width="1364" height="384" rx="22" stroke="url(#gold)" stroke-width="1.8" opacity="0.88"/>
-  <rect x="34" y="34" width="1332" height="352" rx="18" stroke="#D6C089" stroke-opacity="0.16" stroke-width="1"/>
+  <rect x="18" y="18" width="1364" height="384" rx="22" stroke="url(#gold)" stroke-width="1.8" opacity="0.82"/>
+  <rect x="34" y="34" width="1332" height="352" rx="18" stroke="#D6C089" stroke-opacity="0.14" stroke-width="1"/>
 
-  <g opacity="0.2">
-    <path d="M0 320H1400" stroke="#D8B96A" stroke-width="1"/>
-    <path d="M0 244H1400" stroke="#D8B96A" stroke-width="1"/>
-    <path d="M0 168H1400" stroke="#D8B96A" stroke-width="1"/>
-    <path d="M0 92H1400" stroke="#D8B96A" stroke-width="1"/>
+  <g opacity="0.16">
+    <path d="M0 88H1400" stroke="#D8B96A" stroke-width="1"/>
+    <path d="M0 164H1400" stroke="#D8B96A" stroke-width="1"/>
+    <path d="M0 240H1400" stroke="#D8B96A" stroke-width="1"/>
+    <path d="M0 316H1400" stroke="#D8B96A" stroke-width="1"/>
   </g>
 
-  <g filter="url(#blur)" opacity="0.35">
-    <ellipse cx="1120" cy="198" rx="148" ry="126" fill="#E6CF88" fill-opacity="0.12"/>
+  <g filter="url(#blur)" opacity="0.28">
+    <ellipse cx="1106" cy="198" rx="150" ry="132" fill="#E2C46E" fill-opacity="0.12"/>
   </g>
 
-  <g opacity="0.14">
-    <circle cx="1120" cy="198" r="128" stroke="#E6CF88" stroke-width="1.3" fill="none"/>
-    <circle cx="1120" cy="198" r="82" stroke="#E6CF88" stroke-width="1" fill="none"/>
-    <circle cx="1120" cy="198" r="42" stroke="#E6CF88" stroke-width="1" fill="none"/>
-    <circle cx="1120" cy="198" r="168" stroke="#E6CF88" stroke-width="1" fill="none" stroke-dasharray="7 13"/>
+  <g opacity="0.12">
+    <circle cx="1106" cy="198" r="150" stroke="#E2C46E" stroke-width="1.2" fill="none" stroke-dasharray="6 12">
+      <animateTransform attributeName="transform" type="rotate" from="0 1106 198" to="360 1106 198" dur="34s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1106" cy="198" r="104" stroke="#E2C46E" stroke-width="1" fill="none"/>
+    <circle cx="1106" cy="198" r="56" stroke="#E2C46E" stroke-width="1" fill="none"/>
   </g>
 
   <g opacity="0.9">
-    <path d="M110 92H444" stroke="url(#gold)" stroke-width="3" stroke-linecap="round" stroke-dasharray="228 44">
-      <animate attributeName="stroke-dashoffset" values="0;-272" dur="11s" repeatCount="indefinite"/>
+    <path d="M110 96H456" stroke="url(#gold)" stroke-width="3" stroke-linecap="round" stroke-dasharray="212 52">
+      <animate attributeName="stroke-dashoffset" values="0;-264" dur="12s" repeatCount="indefinite"/>
     </path>
-    <path d="M110 330H444" stroke="url(#gold)" stroke-width="2" stroke-linecap="round" stroke-dasharray="130 28">
-      <animate attributeName="stroke-dashoffset" values="0;158" dur="9s" repeatCount="indefinite"/>
+    <path d="M110 332H456" stroke="url(#gold)" stroke-width="2" stroke-linecap="round" stroke-dasharray="128 28">
+      <animate attributeName="stroke-dashoffset" values="0;156" dur="10s" repeatCount="indefinite"/>
     </path>
   </g>
 
   <g>
-    <text x="110" y="176" fill="#F6E7BF" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="700" letter-spacing="7">FERBIN12</text>
-    <text x="112" y="228" fill="#EADAA5" font-family="Inter, Arial, sans-serif" font-size="21" letter-spacing="4">LUXURY SURFACE  •  ROBOTICS ENGINE</text>
-    <text x="112" y="268" fill="#B6C0D1" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="3">ROS 2  •  ISAAC SIM  •  REALSENSE  •  NAV2  •  NEXT.JS</text>
+    <text x="110" y="178" fill="#F6E7BF" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" letter-spacing="7">FERBIN12</text>
+    <text x="112" y="227" fill="#EAD9A2" font-family="Inter, Arial, sans-serif" font-size="21" letter-spacing="4">ROBOTICS-FIRST SYSTEMS ENGINEERING</text>
+    <text x="112" y="268" fill="#B8C2D1" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="3">ROS 2  •  ISAAC SIM  •  REALSENSE  •  NAV2  •  NEXT.JS</text>
   </g>
 
   <g opacity="0.72">
-    <path d="M1100 76L1146 122" stroke="#E6CF88" stroke-width="1.2" stroke-linecap="round"/>
-    <path d="M1158 76L1112 122" stroke="#E6CF88" stroke-width="1.2" stroke-linecap="round"/>
-    <path d="M1100 300L1146 254" stroke="#E6CF88" stroke-width="1.2" stroke-linecap="round"/>
-    <path d="M1158 300L1112 254" stroke="#E6CF88" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M1094 78L1140 124" stroke="#E2C46E" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M1150 78L1104 124" stroke="#E2C46E" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M1094 298L1140 252" stroke="#E2C46E" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M1150 298L1104 252" stroke="#E2C46E" stroke-width="1.2" stroke-linecap="round"/>
   </g>
 
-  <g opacity="0.6">
-    <circle cx="1120" cy="198" r="162" fill="none" stroke="url(#cool)" stroke-width="1.2" stroke-dasharray="8 14">
-      <animateTransform attributeName="transform" type="rotate" from="0 1120 198" to="360 1120 198" dur="30s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <rect x="108" y="296" width="338" height="2" fill="url(#gold)" opacity="0.82"/>
+  <rect x="108" y="296" width="344" height="2" fill="url(#gold)" opacity="0.82"/>
 </svg>
