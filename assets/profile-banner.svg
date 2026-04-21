@@ -1,0 +1,72 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B16"/>
+      <stop offset="0.5" stop-color="#0D1528"/>
+      <stop offset="1" stop-color="#111B33"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7D651F"/>
+      <stop offset="0.5" stop-color="#E2C46E"/>
+      <stop offset="1" stop-color="#9B7B28"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="420" rx="28" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1364" height="384" rx="22" stroke="url(#gold)" stroke-width="2" opacity="0.85"/>
+  <rect x="34" y="34" width="1332" height="352" rx="18" stroke="#D6C089" stroke-opacity="0.18" stroke-width="1"/>
+
+  <g opacity="0.18">
+    <path d="M0 330H1400" stroke="#D8B96A" stroke-width="1"/>
+    <path d="M0 252H1400" stroke="#D8B96A" stroke-width="1"/>
+    <path d="M0 174H1400" stroke="#D8B96A" stroke-width="1"/>
+    <path d="M0 96H1400" stroke="#D8B96A" stroke-width="1"/>
+  </g>
+
+  <g opacity="0.12">
+    <circle cx="1110" cy="202" r="126" stroke="#E2C46E" stroke-width="1.5" fill="none"/>
+    <circle cx="1110" cy="202" r="82" stroke="#E2C46E" stroke-width="1" fill="none"/>
+    <circle cx="1110" cy="202" r="40" stroke="#E2C46E" stroke-width="1" fill="none"/>
+  </g>
+
+  <g filter="url(#blur)" opacity="0.38">
+    <ellipse cx="1108" cy="204" rx="138" ry="118" fill="#E2C46E" fill-opacity="0.16"/>
+  </g>
+
+  <g opacity="0.9">
+    <path d="M112 90H430" stroke="url(#gold)" stroke-width="3" stroke-linecap="round" stroke-dasharray="220 48">
+      <animate attributeName="stroke-dashoffset" values="0;-268" dur="12s" repeatCount="indefinite"/>
+    </path>
+    <path d="M112 330H430" stroke="url(#gold)" stroke-width="2" stroke-linecap="round" stroke-dasharray="120 26">
+      <animate attributeName="stroke-dashoffset" values="0;146" dur="10s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g>
+    <text x="110" y="178" fill="#F6E7BF" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700" letter-spacing="7">FERBIN12</text>
+    <text x="112" y="228" fill="#E9D9A9" font-family="Inter, Arial, sans-serif" font-size="22" letter-spacing="4">OLD MONEY PRECISION  •  FUTURISTIC EXECUTION</text>
+    <text x="112" y="268" fill="#B6C0D1" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="3">WEB  •  ROBOTICS  •  AUTOMATION  •  PRODUCT SYSTEMS</text>
+  </g>
+
+  <g opacity="0.7">
+    <path d="M1095 76L1140 121" stroke="#E2C46E" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M1150 76L1105 121" stroke="#E2C46E" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M1095 304L1140 259" stroke="#E2C46E" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M1150 304L1105 259" stroke="#E2C46E" stroke-width="1.2" stroke-linecap="round"/>
+  </g>
+
+  <g opacity="0.55">
+    <circle cx="1110" cy="202" r="160" fill="none" stroke="url(#sheen)" stroke-width="1.2" stroke-dasharray="8 14">
+      <animateTransform attributeName="transform" type="rotate" from="0 1110 202" to="360 1110 202" dur="28s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <rect x="107" y="296" width="318" height="2" fill="url(#gold)" opacity="0.85"/>
+</svg>

@@ -1,10 +1,14 @@
-<h1 align="left">Ferbin / FERBIN12</h1>
-
-<p align="left">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=22C55E&vCenter=true&width=820&lines=Web+%E2%80%A2+Robotics+%E2%80%A2+Automation;Next.js+%2B+Supabase+%2B+Vercel;ROS+2+%2B+Isaac+Sim+%2B+Python;Shipping+systems+that+actually+work" />
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Ferbin profile banner" />
 </p>
 
-<p align="left">
+<h1 align="center">Ferbin / FERBIN12</h1>
+
+<p align="center">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=26&pause=1200&color=E2C46E&center=true&vCenter=true&width=860&lines=Old-money+precision+%E2%80%A2+futuristic+execution;Web+%E2%80%A2+Robotics+%E2%80%A2+Automation;Next.js+%2B+Supabase+%2B+Vercel;ROS+2+%2B+Isaac+Sim+%2B+Python" />
+</p>
+
+<p align="center">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-FERBIN12-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -14,15 +18,13 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-> I build products, robotics systems, and the automation around both.
-
-I’m Ferbin, usually Ferbs. My day-to-day leans across product engineering, robotics simulation, and enough glue work to keep real systems moving. The loud part: I like shipping. The quieter part: I like making the machinery behind shipping stable.
+<p align="center"><i>Building product systems with a calm surface and a sharp engine.</i></p>
 
 ---
 
-## Connect
+## Contact
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/FERBIN12">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@FERBIN12-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
@@ -32,9 +34,9 @@ I’m Ferbin, usually Ferbs. My day-to-day leans across product engineering, rob
 
 ---
 
-## Core Stack
+## Signature Stack
 
-<p align="left">
+<p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -56,9 +58,9 @@ I’m Ferbin, usually Ferbs. My day-to-day leans across product engineering, rob
 
 ---
 
-## Robotics + Simulation
+## Precision Systems
 
-<p align="left">
+<p align="center">
   <img alt="ROS 2" src="https://img.shields.io/badge/ROS%202-Jazzy-22314E?style=flat-square" />
   <img alt="Isaac Sim" src="https://img.shields.io/badge/Isaac%20Sim-5.1.0-76B900?style=flat-square" />
   <img alt="TurtleBot3" src="https://img.shields.io/badge/TurtleBot3-FF8C00?style=flat-square" />
@@ -77,9 +79,9 @@ I’m Ferbin, usually Ferbs. My day-to-day leans across product engineering, rob
 
 ---
 
-## ML + Data
+## Field Notes
 
-<p align="left">
+<p align="center">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="TensorBoard" src="https://img.shields.io/badge/TensorBoard-FF6F00?style=flat-square" />
   <img alt="Ultralytics" src="https://img.shields.io/badge/Ultralytics-0B3D91?style=flat-square" />
@@ -89,16 +91,7 @@ I’m Ferbin, usually Ferbs. My day-to-day leans across product engineering, rob
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img alt="Sphinx" src="https://img.shields.io/badge/Sphinx-000000?style=flat-square&logo=sphinx&logoColor=white" />
-  <img alt="Open3D" src="https://img.shields.io/badge/Open3D-111111?style=flat-square" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
   <img alt="aiohttp" src="https://img.shields.io/badge/aiohttp-2C5BB4?style=flat-square" />
-</p>
-
----
-
-## Systems + Tooling
-
-<p align="left">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" />
@@ -106,10 +99,6 @@ I’m Ferbin, usually Ferbs. My day-to-day leans across product engineering, rob
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Cargo" src="https://img.shields.io/badge/Cargo-8C6239?style=flat-square" />
   <img alt="rust-analyzer" src="https://img.shields.io/badge/rust--analyzer-DEA584?style=flat-square" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img alt="Sphinx" src="https://img.shields.io/badge/Sphinx-000000?style=flat-square&logo=sphinx&logoColor=white" />
-  <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" />
-  <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
 ---
@@ -144,17 +133,17 @@ I’m Ferbin, usually Ferbs. My day-to-day leans across product engineering, rob
 
 ## GitHub Activity
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FERBIN12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FERBIN12&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FERBIN12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FERBIN12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FERBIN12&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<p align="left">
+<p align="center">
   <img alt="Footer" src="https://img.shields.io/badge/Built%20with%20discipline%20and%20curiosity-111111?style=for-the-badge" />
 </p>
